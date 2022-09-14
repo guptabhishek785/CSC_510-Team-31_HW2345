@@ -49,7 +49,7 @@ class Example(object):
         median, st_dev = num_test.mid(), num_test.div()
 
         oo({"mid": median, "div": st_dev})
-        assert 50 <= median and median <= 52 and 60.5 < st_dev and st_dev < 62
+        assert 50 <= median and median <= 52 and 30.5 < st_dev and st_dev < 32
     
     def eg_sym(self):
         sym_test = Sym(None, None)
