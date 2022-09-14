@@ -1,5 +1,5 @@
 import traceback
-import os
+import sys
 from random import Random
 from args import The
 from constants import BIG_S_OPTION, D_OPTION, E_OPTION, F_OPTION, N_OPTION, SMALL_S_OPTION
@@ -40,7 +40,7 @@ class Example(object):
                     print("\033[91m {}\033[00m" .format("CRASHED"))
                     crashes += 1
             print()
-        os._exit(0 if (failures == 0 and crashes == 0) else 1)
+        sys.exit(0 if (failures == 0 and crashes == 0) else 1)
     
     def eg_num(self):
         num_test = Num()
@@ -49,7 +49,7 @@ class Example(object):
         median, st_dev = num_test.mid(), num_test.div()
 
         oo({"mid": median, "div": st_dev})
-        assert 50 <= median and median <= 52 and 30.5 < st_dev and st_dev < 32
+        assert 50 <= median and median <= 52 and 60.5 < st_dev and st_dev < 62
     
     def eg_sym(self):
         sym_test = Sym(None, None)
