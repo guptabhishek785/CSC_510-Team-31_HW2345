@@ -1,1 +1,38 @@
-
+cff-version: 1.2.0
+title: >-
+  CSC510-Group31-Statistical Inferences from a
+  Dataset in Python
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Neeloy
+    family-names: Gomes
+    email: neeloy.gomes@gmail.com
+  - given-names: Vishal
+    family-names: Veerareddy
+    email: veerareddyvishal144@gmail.com
+  - given-names: Abhimanyu
+    family-names: Bellam
+    email: bellamabhimanyu@gmail.com
+  - given-names: Tyler
+    family-names: Craine
+    email: tylerkecraine@gmail.com
+  - given-names: Abhishek
+    family-names: Gupta
+    email: guptabhishek785@gmail.com
+identifiers:
+  - type: url
+    value: 'https://doi.org/10.5281/zenodo.7086751'
+url: 'https://github.com/CSC-510-Team-31'
+abstract: >-
+  This repo serves as a rewrite of Dr. Tim Menzies'
+  csv.lua implementation into Python. Apart from
+  academic purposes, the goal is to showcase
+  implementing a test framework from scratch, legacy
+  refactorization, and learning more about the
+  nuances of LUA as it's translated to (roughly
+  equivalent) Python code.
+license: MIT
+version: 1.0.1
