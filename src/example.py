@@ -1,5 +1,6 @@
-from random import Random
 import traceback
+import sys
+from random import Random
 from args import The
 from constants import BIG_S_OPTION, D_OPTION, E_OPTION, F_OPTION, N_OPTION, SMALL_S_OPTION
 from data import Data
@@ -39,7 +40,7 @@ class Example(object):
                     print("\033[91m {}\033[00m" .format("CRASHED"))
                     crashes += 1
             print()
-        return successes, failures
+        sys.exit(0 if (failures == 0 and crashes == 0) else 1)
     
     def eg_num(self):
         num_test = Num()
