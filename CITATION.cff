@@ -1,1 +1,32 @@
-
+cff-version: 1.2.0
+title: >-
+  CSC510-Group31-Statistical Inferences from a
+  Dataset in Python
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Neeloy
+    family-names: Gomes
+    email: neeloy.gomes@gmail.com
+    affiliation: NCSU
+  - given-names: Vishal
+    family-names: Veerareddy
+    email: veerareddyvishal144@gmail.com
+    affiliation: NCSU
+  - given-names: Abhimanyu
+    family-names: Bellam
+    email: bellamabhimanyu@gmail.com
+    affiliation: NCSU
+  - given-names: Tyler
+    family-names: Craine
+    email: tylerkecraine@gmail.com
+    affiliation: NCSU
+  - given-names: Abhishek
+    family-names: Gupta
+    email: guptabhishek785@gmail.com
+    affiliation: NCSU
+url: 'https://github.com/CSC-510-Team-31'
+license: MIT
+version: 1.0.1
