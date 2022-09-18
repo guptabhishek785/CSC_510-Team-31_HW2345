@@ -13,4 +13,4 @@ It gives the summary of total tests, number of successful tests and the number o
 4. Bignum: Checks if the sample of numbers are added and checks if the kept numbers span the range of inputs
 5. CSV: checks if the csv file is read correctly
 6. Data: checks if the csv file is loaded into a Data?
-7. stats: checks if the stats are performed on the columns and output is printed
+7. Stats: checks if the stats are performed on the columns and output is printed
