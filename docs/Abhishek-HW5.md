@@ -6,7 +6,7 @@
 * Template By Neeloy Gomes (https://github.com/ntgomes)
 
 
-| **Criteria**                                                                       | *Points* = 38	| **Evidence**                                                                                                                                        |
+| **Criteria**                                                                       | *Points* = 41	| **Evidence**                                                                                                                                        |
 |------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Video 1                                                                            | 0          	  | There is no video                                                                                                                                 |
 | Video 2                                                                            | 0          	  | There is no video                                                                                                                                 |
@@ -17,7 +17,7 @@
 | Number of issues closed                                                            | 0          	  | * (No issues Created/ Closed) https://github.com/alunavat/CSC510-22-group-5/issues?q=is%3Aclosed                                                  |
 | DOI badge                                                                          | 3         	    | https://github.com/alunavat/CSC510-22-group-5<br>https://zenodo.org/record/7016145                                                                |
 | Docs auto-generated and neat                                                       | 0          	  | No Docs available                                             														                                                        |
-| Docs show point descriptions of each class<br>and function                         | 0          	  | *                                                                             											                                              |
+| Docs show point descriptions of each class<br>and function                         | 0          	  |  No Docs available                                                                           											                                              |
 | Docs show common use cases and mini<br>tutorials                                   | 3          	  | https://github.com/alunavat/CSC510-22-group-5                                                                                                     |
 | Docs tell a story about the why                                                    | 0          	  | No such docs                                                                                                                                      |
 | Docs has a short animated video                                                    | 0          	  | There is no such video                                                                                                                            |
@@ -33,7 +33,7 @@
 | Issues are discussed before they are closed                                        | 0          	  | No issues Opened/ Closed                                                                                                				                  |
 | Existence of chat channel                                                          | 0          	  | NA                                                                                                                      				                  |
 | A large proportion of issues are for fixing<br>failing test cases                  | 0         	    | No issues Opened/ Closed                                                                                                 				                  |
-| Evidence that the whole team is using the<br>same tools                            | 0          	  | * 																							                                                                                            	    |
+| Evidence that the whole team is using the<br>same tools                            | 0          	  | No option to verify																							                                                                                            	    |
 | Evidence that members of the team are<br>committing to multiple places in the code | 3          	  | Spread out commits by different team members evident by commit history                               							                                |
 | Short release cycles                                                               | 2          	  | One Release on Aug 23                                                                                                                       	    |
                                                                                                                                     															                                                                                        |
