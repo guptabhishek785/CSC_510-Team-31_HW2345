@@ -1,7 +1,7 @@
 # Peer Review
-Based on [Project 1 rubric](https://github.com/txt/se22/blob/main/docs/proj1.md#rubric)
-Reviewed by: Abhishek Gupta (https://github.com/guptabhishek785)
-Repo url: https://github.com/alunavat/CSC510-22-group-5
+- Based on [Project 1 rubric](https://github.com/txt/se22/blob/main/docs/proj1.md#rubric)
+- Reviewed by: Abhishek Gupta (https://github.com/guptabhishek785)
+- Repo url: https://github.com/alunavat/CSC510-22-group-5
 
 * Template By Neeloy Gomes (https://github.com/ntgomes)
 
