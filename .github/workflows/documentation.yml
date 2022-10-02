@@ -17,7 +17,7 @@ jobs:
       run: |
           git pull
           sudo apt-get install python3-sphinx
-          sphinx-apidoc -o ./staging ./src
+          sphinx-apidoc -F -o ./staging ./src
           sphinx-build -b html ./staging ./docs
           git config --global user.name "Abhishek Gupta"
           git config --global user.email "guptabhishek785@gmail.com"
