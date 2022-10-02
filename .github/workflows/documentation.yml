@@ -16,8 +16,8 @@ jobs:
           sudo apt-get install python3-sphinx
           sphinx-apidoc -F -o ./staging ./src
           sphinx-build -b html ./staging ./docs
-          git config --global user.name "ntgomes"
-          git config --global user.email "neeloy.gomes@gmail.com"
+          git config --global user.name "guptabhishek785"
+          git config --global user.email "guptabhishek785@gmail.com"
           git add ./docs
           git commit -m "[Automated] Update docs" -a || true
           git push
