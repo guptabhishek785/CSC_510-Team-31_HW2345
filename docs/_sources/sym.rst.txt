@@ -1,0 +1,7 @@
+sym module
+==========
+
+.. automodule:: sym
+    :members:
+    :undoc-members:
+    :show-inheritance:
