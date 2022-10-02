@@ -1,0 +1,7 @@
+row module
+==========
+
+.. automodule:: row
+    :members:
+    :undoc-members:
+    :show-inheritance:
